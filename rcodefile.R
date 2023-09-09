@@ -1,5 +1,5 @@
 getwd()
-setwd("C:/Users/1809s/OneDrive/Documents")
+setwd("C:/U")
 data<-read.csv("house-data.csv")
 summary(data)
 ncol(data) #Total of 51 columns
